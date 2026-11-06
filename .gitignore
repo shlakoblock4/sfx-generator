@@ -1,0 +1,11 @@
+# Сборка
+build/
+out/
+
+# Временные файлы IDE
+.vscode/
+*.user
+
+# Системный мусор
+.DS_Store
+Thumbs.db
